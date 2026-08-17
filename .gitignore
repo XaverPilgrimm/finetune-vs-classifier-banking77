@@ -4,4 +4,8 @@ __pycache__/
 checkpoints/
 *.safetensors
 *.bin
+*.pt
 wandb/
+.ipynb_checkpoints/
+.vscode/
+.vs/
