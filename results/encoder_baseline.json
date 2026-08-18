@@ -1,0 +1,5 @@
+{
+  "model": "answerdotai/ModernBERT-base",
+  "scheduler": "linear",
+  "accuracy": 0.9353055916775033
+}

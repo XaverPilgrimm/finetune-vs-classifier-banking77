@@ -1,0 +1,5 @@
+{
+  "model": "answerdotai/ModernBERT-large",
+  "scheduler": "cosine",
+  "accuracy": 0.9418075422626788
+}
